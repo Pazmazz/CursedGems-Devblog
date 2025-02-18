@@ -1,0 +1,28 @@
+@font-face {
+    font-family: pixelFJVerdana;
+    src: url('../fonts/PixelFJVerdana12pt.ttf') format('truetype');
+} 
+
+body {
+    font-family: pixelFJVerdana;
+    color: #000;
+    background-color: #291460;
+    text-align: center;
+}
+
+.content-border {
+    border: 5px #000 solid;
+    background-color: #fff;
+    padding: 20px;
+    margin: 0px 70px 0px 70px;
+}
+
+h2 {
+    color: #FFDE21;
+}
+
+.text {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    text-align: left; 
+}
